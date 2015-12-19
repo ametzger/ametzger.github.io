@@ -1,0 +1,2 @@
+# ametzger.github.io
+blog
