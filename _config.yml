@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        /:slug
+paginate: 5
+gems: [jekyll-paginate]
+
+# Setup
+title:            Alex Metzger
+tagline:          'Blog'
+#description:      'Hipster .NET stuff mostly'
+url:              http://blog.asm.io
+repo:             https://github.com/ametzger/ametzger.github.io
+baseurl:          /
+
+author:
+  name:           'Alex Metzger'
+  url:            https://twitter.com/metzger
+
+github:           https://github.com/ametzger
+twitter:          https://twitter.com/metzger
