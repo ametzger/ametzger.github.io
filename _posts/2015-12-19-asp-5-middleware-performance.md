@@ -66,4 +66,4 @@ Visual Studio Code on Mac is highly promising but isn't quite there yet IMHO. Ma
 
 Overall I am really excited about the new version of .NET. Having used C# for some time now I have seen Microsoft go from "gross-only-banks-and-boring-enterprise-apps-use-that" to capturing the top of Hacker News pretty regularly. With these new tools I think that developing for the stack can really only get better.
 
-You can find the source code I used for these benchmarks on GitHub.
+You can find the source code I used for these benchmarks [on GitHub](https://github.com/ametzger/basic-vnext-benchmark).
