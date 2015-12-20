@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: about
 ---
 
 Howdy! I'm Alex. I'm a software developer currently working mostly in the .NET stack. I mostly focus on backend development and performance tuning, so that is the main focus of my blog.
