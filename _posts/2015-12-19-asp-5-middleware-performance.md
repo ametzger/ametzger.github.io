@@ -7,7 +7,7 @@ As part of my day job I have been doing some performance testing using the reall
 
 I was also interested in the MacOS X development experience for the new version of the .NET framework. I use a MacBook Pro both at home and at work (separate computers), only at work I spend 90% of my time in a Windows 8.1 Parallels VM. I have a similar setup on my home computer, but [Visual Studio Code](https://code.visualstudio.com) has been showing a lot of promise as a native OS X app that I can write C# in.
 
-First, I created a new ASP.NET API project using the Yeoman generator per the [instructions on the asp.net website](http://docs.asp.net/en/latest/client-side/yeoman.html). With that, I defined a very simple `HelloWorldController` that just returned the string "Hello World" and DateTime.UtcNow:
+First, I created a new ASP.NET API project using the Yeoman generator per the [instructions on the asp.net website](http://docs.asp.net/en/latest/client-side/yeoman.html). With that, I defined a very simple `HelloWorldController` that just returned the string "Hello World" and `DateTime.UtcNow`:
 
 ``` csharp
 [Route("api/[controller]")]
